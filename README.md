@@ -24,4 +24,4 @@ This repository contains practice projects I worked on while learning Java. The 
 - These are my practice projects to strengthen my Java skills.
 - More advanced topics, like Spring Boot, will be added in the future.
 
-Feel free to check it out and leave a star if you find it helpful!
+
